@@ -1,0 +1,19 @@
+{
+  "name": "13.-backeup",
+  "version": "1.0.0",
+  "description": "13. Object-Relational Mapping (ORM) Challenge: E-commerce Back End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xRitchie91/BackEup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xRitchie91/BackEup/issues"
+  },
+  "homepage": "https://github.com/xRitchie91/BackEup#readme"
+}
