@@ -19,7 +19,7 @@ BackEUp is meant to show how an Express.js API can be configured to use Sequeliz
 - [Ritchie Ortiz](https://www.github.com/xRitchie91)
 - [Kyle McKinley](https://www.github.com/kjmckinley)
 - [Nancy Rosas](https://www.github.com/nancyrosas0)
-- [Peter Martinez](htps://www.github.com/Pmarti53)
+- [Peter Martinez](https://www.github.com/Pmarti53)
 
 ## Questions
 [xRitchie91](https://www.github.com/xRitchie91)
