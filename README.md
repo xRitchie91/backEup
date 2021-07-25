@@ -14,6 +14,8 @@ BackEUp is meant to show how an Express.js API can be configured to use Sequeliz
 - ![13 2](https://user-images.githubusercontent.com/74946954/126909916-a97935a4-c0d1-47e2-aeb4-3b1ce6cc1172.png)
 
 ### Walkthrough
+[Command Line](https://drive.google.com/file/d/1YToB8H7CUTY-6mJe3WBGGS34a4_54EpX/view)
+[Insomnia]()
 
 ## Usage
 npm `run seed` in the command line.
