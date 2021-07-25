@@ -2,15 +2,13 @@ require('dotenv').config();
 
 const Sequelize = require('sequelize');
 
-let sequelize;
 
-if (process.env.JAWSDB_URL) {
-  sequelize = new Sequelize(process.env.JAWSDB_URL);
-} else {
-  sequelize = new Sequelize('ecommerce_db', 'root', 'xTitan91!', {
+const sequelize = process.env.JAWSDB_URL
+  ? new Sequelize(process.env.JAWSDB_URL)
+  : new Sequelize('ecommerce_db', 'root', 'xTitan91!', {
     host: 'localhost',
-    dialect: 'mysql',
-    port: 3306
+    port: 3306,
+    dialect: 'mysql'
   });
-}
+
 module.exports = sequelize;
